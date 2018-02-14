@@ -1,2 +1,7 @@
 /nbproject/private/
 nbproject/
+_site
+.sass-cache
+Gemfile.lock
+.idea/
+*.gem

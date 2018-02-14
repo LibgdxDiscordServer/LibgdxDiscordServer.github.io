@@ -1,9 +1,0 @@
-#datatable table {
-    border-collapse: collapse;
-    
-    table-layout: fixed;
-}
-
-#datatable td {
-    border: 1px black solid;
-}
